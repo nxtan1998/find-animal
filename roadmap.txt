@@ -1,0 +1,24 @@
+* Đếm
+	+ Đếm số lượng số chẵn trong mảng
+	+ Đếm số dương chia hết cho 7 trong mảng
+
+* Đặt lính canh
+	+  Tìm giá trị lớn nhất trong mảng
+	+ Tìm vị trí của giá trị chẵn đầu tiên trong mảng 1 chiều các số nguyên. Nếu mảng không có giá trị chẵn thì sẽ trả về -1
+
+* Tìm kiếm
+	+ Tìm vị trí số cho trước có trong mảng không, nếu không có trả về -1.
+
+* Xử lý liên quan đến mảng:
+	+ Thêm vào mảng:
+		++ Thêm 1 phần tử x vào mảng tại vị trí k
+
+	+ Xóa ptu mảng
+		++ Xóa tất cả các số chẵn trong mảng
+		++ Làm sạch mảng (xóa các phần từ trùng lập)
+
+	+ Xử lý trong mảng
+		++ Đưa các số chia hết cho 3 về đầu mảng
+
+	+ Xây dựng mạng
+		++ Tạo mảng b chỉ chứa giá trị âm từ mảng a
