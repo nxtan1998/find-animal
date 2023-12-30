@@ -213,7 +213,7 @@ public class Main extends Game implements IQuit {
 		sceneMgr			= new SceneMgr(this);
 
 		boolean newbie = session.profile.newbie;
-		sceneMgr.changeScene(SceneMgr.START_SCENE);
+		sceneMgr.changeScene(SceneMgr.GAMEPLAY_SCENE);
 		debugFps();
 	}
 
